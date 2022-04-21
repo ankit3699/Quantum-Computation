@@ -107,13 +107,3 @@ def enc(key):
 print("key = ", key)
 print("enc1 =", enc(key))
 print("enc2 =", enc(enc(key)))
-
-
-
-
-
-
-
-
-
-
